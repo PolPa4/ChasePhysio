@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi página</title>
+</head>
+<body>
+    <h1>¡Hola! Esta es mi página web 🚀</h1>
+    <p>Hecha con GitHub Pages.</p>
+</body>
+</html>
+
