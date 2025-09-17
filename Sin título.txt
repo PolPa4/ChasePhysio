@@ -9,3 +9,11 @@
 </body>
 </html>
 
+mi-pagina/
+│
+├── index.html
+├── style.css
+├── /img
+│    └── logo.png
+└── /js
+     └── main.js
